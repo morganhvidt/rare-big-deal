@@ -576,6 +576,7 @@ Free & open-source.
 
 | | Name | Description | Deal | Expires on date |
 | - | - | - | - | - |
+| 🔍 | [CopyJump](https://copyjump.com/pricing) | Helps you get more customers from Google and AI search, for your own site or your clients. | **$40 off** the first invoice (1 site $79 → $39), auto-applied with code **BLACKFRIDAY26**, first-time orders, limited redemptions | 2026-12-01 |
 
 
 ### Analyze & Audit
